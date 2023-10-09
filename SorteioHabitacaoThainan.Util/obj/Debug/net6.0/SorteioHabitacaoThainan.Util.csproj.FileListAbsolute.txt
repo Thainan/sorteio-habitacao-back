@@ -1,0 +1,22 @@
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\bin\Debug\net6.0\SorteioHabitacaoThainan.Util.deps.json
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\bin\Debug\net6.0\SorteioHabitacaoThainan.Util.dll
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\bin\Debug\net6.0\SorteioHabitacaoThainan.Util.pdb
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.AssemblyInfoInputs.cache
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.AssemblyInfo.cs
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.csproj.CoreCompileInputs.cache
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.dll
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\refint\SorteioHabitacaoThainan.Util.dll
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.pdb
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\ref\SorteioHabitacaoThainan.Util.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\bin\Debug\net6.0\SorteioHabitacaoThainan.Util.deps.json
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\bin\Debug\net6.0\SorteioHabitacaoThainan.Util.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\bin\Debug\net6.0\SorteioHabitacaoThainan.Util.pdb
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.AssemblyInfoInputs.cache
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.AssemblyInfo.cs
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.csproj.CoreCompileInputs.cache
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\refint\SorteioHabitacaoThainan.Util.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\SorteioHabitacaoThainan.Util.pdb
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Util\obj\Debug\net6.0\ref\SorteioHabitacaoThainan.Util.dll

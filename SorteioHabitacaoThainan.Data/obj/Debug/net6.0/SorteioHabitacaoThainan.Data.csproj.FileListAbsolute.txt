@@ -1,0 +1,30 @@
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Data.deps.json
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Data.dll
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Data.pdb
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Dominio.dll
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Dominio.pdb
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.csproj.AssemblyReference.cache
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.AssemblyInfoInputs.cache
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.AssemblyInfo.cs
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.csproj.CoreCompileInputs.cache
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.csproj.CopyComplete
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.dll
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\refint\SorteioHabitacaoThainan.Data.dll
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.pdb
+C:\projetos\sorteiothainan\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\ref\SorteioHabitacaoThainan.Data.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Data.deps.json
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Data.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Data.pdb
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Dominio.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\bin\Debug\net6.0\SorteioHabitacaoThainan.Dominio.pdb
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.csproj.AssemblyReference.cache
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.AssemblyInfoInputs.cache
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.AssemblyInfo.cs
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.csproj.CopyComplete
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\refint\SorteioHabitacaoThainan.Data.dll
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\SorteioHabitacaoThainan.Data.pdb
+C:\Users\Thainan\Desktop\teste sorteio habitação thainan\api\SorteioHabitacaoThainan\SorteioHabitacaoThainan.Data\obj\Debug\net6.0\ref\SorteioHabitacaoThainan.Data.dll
